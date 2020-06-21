@@ -1,4 +1,4 @@
-const    github =                       'super-linter'
+const     github =                       'super-linter'
   console.log(github)
 
        function greeting(){
