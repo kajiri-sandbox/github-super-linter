@@ -8,4 +8,4 @@ const     github =                       'super-linter'
     
    var greet = greeting
 
- console.log(                 greet   (    )   )
+ console.log (                 greet   (    )   )
